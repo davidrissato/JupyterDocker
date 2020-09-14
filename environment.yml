@@ -1,0 +1,25 @@
+name: base
+channels:
+    - defaults
+    - conda-forge
+    - bioconda
+dependencies:
+    - python=3.7
+    - jupyterlab
+    - notebook
+    - java-jdk
+    - numpy
+    - pandas
+    - seaborn
+    - biopython
+    - ete3
+    - pysam 
+    - samtools
+    - scikit-learn
+    - bcftools
+    - nextflow
+    - htslib
+    - bowtie2
+    - minimap2
+    - miniwdl
+    - igv
